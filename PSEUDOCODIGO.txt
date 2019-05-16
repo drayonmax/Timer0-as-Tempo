@@ -1,0 +1,9 @@
+se asigna precarga del tmr0 = 1536
+se declara la interrupció TIMER0
+	
+inicio codigo principal
+	se activa la interrupción global
+	
+	
+	
+fin codigo principal

@@ -1,7 +1,10 @@
+//Se necesitan 3 contadores de anillo con un retardo diferente
 se asigna precarga del tmr0 = 1536
 se declara la interrupció TIMER0
 	
 inicio codigo principal
+	configuramos el puerto b
+	
 	se activa la interrupción global
 	
 	

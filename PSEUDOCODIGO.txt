@@ -1,19 +1,14 @@
-//Se necesitan 3 contadores de anillo con un retardo diferente uno con un retardo de 100ms y 8 leds, 
+//Se necesitan 4 contadores de anillo con un retardo diferente uno con un retardo de 100ms y 8 leds, 
 //otro con retardo de 500ms y 8 leds, el ultimo con un retardo de 500 ms y 6 leds
-se asigna precarga del tmr0 = 1536
+se asigna precarga del tmr0 = 15536
 se declara la interrupció TIMER0
 	
 inicio codigo principal
 	configuramos los puertos b,c,d como salidas digitales
 	configuramos del pin a0 al a5 como salida digital
-	
-	
-	
-	se activa la interrupción global
-	se activa la interrupción del timer0
-	
-	inicializa el timer0
-	
-	
-	
+	comienza un ciclo sin fin
+		
+		
+		
+		
 fin codigo principal
